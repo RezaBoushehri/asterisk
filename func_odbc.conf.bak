@@ -1,0 +1,3 @@
+#include odbc_custom.conf
+;#include odbc/*.conf
+
